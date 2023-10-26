@@ -1,0 +1,13 @@
+.nav-item a{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13px;
+    padding: 20px 50px;
+}
+.carousel-item img{
+    height: 500px;
+}
+.carousel-item {
+    width: 90%;
+    margin-left: 70px;
+}
