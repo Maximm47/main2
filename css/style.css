@@ -22,3 +22,37 @@
     width: 500px;
     height: 300px;
 }
+.main1 {
+    background-color: rgb(218, 186, 215);
+    text-align: center;
+    padding: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.form-control {
+    width: 50%;
+    background-color: rgb(218, 186, 215);
+    border: none;
+    text-align: center;
+    margin-top: 100px;
+}
+#con1{
+    margin-top: 40px;
+}
+.button {
+    text-align: center;
+    margin: 100px 0;
+    font-size: 30px;
+}
+.button a {
+    text-decoration: none;
+    color: black;
+    border: 2px solid black;
+    padding: 10px 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+footer a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    padding-right: 15px;
+}
